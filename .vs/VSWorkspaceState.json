@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\QuanLySoThu",
+    "\\QuanLySoThu\\Database",
     "\\QuanLySoThu\\QuanLySoThu",
-    "\\QuanLySoThu\\QuanLySoThu\\Classes",
-    "\\QuanLySoThu\\QuanLySoThu\\Forms",
-    "\\QuanLySoThu\\QuanLySoThu\\Pages"
+    "\\QuanLySoThu\\QuanLySoThu\\Forms"
   ],
-  "SelectedNode": "\\QuanLySoThu\\QuanLySoThu\\Pages\\pageThu.cs",
+  "SelectedNode": "\\QuanLySoThu\\QuanLySoThu\\Forms\\DangKy.cs",
   "PreviewInSolutionExplorer": false
 }
